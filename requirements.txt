@@ -1,0 +1,7 @@
+asgiref==3.8.1
+Django==5.1
+django-adminlte3==0.1.6
+django-jazzmin==3.0.0
+django-unfold==0.37.0
+PyMySQL==1.1.1
+sqlparse==0.5.1
